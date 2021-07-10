@@ -1,5 +1,5 @@
 ## Hey, I'm Hridoy Chandra Das!👋
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="topu.jpg" width="230">
 
 ### I'm a Student and want to be a Programmer! <img src="" width="50"></h2>
 
