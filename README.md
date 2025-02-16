@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning and practicing competitive programming in c++
 - 👯 I’m looking to good things for learning
-- 🥅 2021 Goals: Learning something new
+- 🥅 Goals: Learning something new
 - ⚡ Hobbies: Chess,Playing Guiter(Although can't),listening music.<br/>
 - 
  ## Connect With me :<img src="giphy.gif" width="50"> <br/>
